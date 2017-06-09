@@ -1,0 +1,15 @@
+PODS:
+  - BaiduMapKit (3.3.2)
+  - Masonry (1.0.2)
+
+DEPENDENCIES:
+  - BaiduMapKit
+  - Masonry
+
+SPEC CHECKSUMS:
+  BaiduMapKit: 5118390d63b375483bd64c963e8e32a40fd9ddb5
+  Masonry: 7c429b56da9d4ee0bbb3ed77a5ea710d6a5df39e
+
+PODFILE CHECKSUM: 44b132cbd9163469aa378da49e0e587697525959
+
+COCOAPODS: 1.1.1
